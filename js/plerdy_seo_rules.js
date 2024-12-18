@@ -1,0 +1,1 @@
+window.plerdy_seo_rules=[]
